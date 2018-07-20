@@ -16,3 +16,9 @@ body, html {
     
     background-image: url('../images/water0.png');
 }   
+
+#port {
+    margin-top: 96px;
+    display: flex;
+    justify-content: space-around   ;
+}
